@@ -1,0 +1,74 @@
+/* developed by : uzair */
+
+
+@font-face{
+	font-family: cass;
+src: url('DIGITALDREAM.ttf');
+}
+ 
+.abc
+{font-family: sans-serif;
+    text-align: center;
+    color: teal;
+    font-size: 3rem; padding: 4px;
+}
+.tab{max-width: 961px;
+    
+    
+display:flex;
+justify-items: center;
+justify-content: center;
+align-items: center;
+margin: auto;
+/* margin: 0px 28% 0 28%; */
+}
+.lmo{
+margin: auto;
+flex-direction: row;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-color: none;
+color: rgb(105, 102, 107);
+width: 150px;
+height: 100px; 
+text-align: center;
+font-size: 1.5rem;
+font-weight: lighter;
+}
+.bnn{
+    box-shadow: -1px 1px 15px 6px rgb(167, 164, 164);
+    font-family: cass;
+background-color: rgb(26, 206, 197);
+width: 150px;
+height: 150px; 
+text-align: center;
+font-size: 4rem;
+color: honeydew;
+font-weight: lighter;
+border-radius: 50%;
+}
+.coal{color: white;
+    font-size: 1rem;
+    margin-top: 40px; border-width: 0; 
+  border-radius: 7px;
+  height: 30px;  width: 70px;
+    
+}
+.coal:hover,   .coal:focus{border-radius: 0;
+    border-radius: 7px;
+    outline: none;
+opacity: 0.6;
+}
+.start{
+    background-color: rgb(0, 131, 218);
+}
+.stop{
+    background-color: rgb(219, 75, 75)
+
+}
+.reset{
+    background-color: rgb(192, 233, 8);
+
+}
+.vbn{
+    margin: 50%;
+}
